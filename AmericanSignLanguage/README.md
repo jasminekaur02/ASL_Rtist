@@ -28,4 +28,4 @@ scikit-learn 0.23.2 or Later (Only if you want to display the confusion matrix)
 matplotlib 3.3.2 or Later (Only if you want to display the confusion matrix)
 Usage
 Clone the repository:
-git clone 
+git clone https://github.com/jasminekaur02/ASL_Rtist
